@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on flutter and web development.
+- 🔭 I’m currently working on VueJs.
 - 🌱 I’m currently learning backend development.
 - 👯 I’m looking to collaborate with other developers.
 - 💬 Ask me about flutter.
