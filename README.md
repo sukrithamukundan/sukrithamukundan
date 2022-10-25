@@ -6,7 +6,6 @@
 
 
 - 🔭 I’m currently working on VueJs.
-- 🌱 I’m currently learning backend development.
 - 👯 I’m looking to collaborate with other developers.
 - 💬 Ask me about flutter.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sukritha-kk-a2b0a4183/)
